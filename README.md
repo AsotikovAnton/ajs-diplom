@@ -2,6 +2,8 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/539wpchmse6oc9u7?svg=true)](https://ci.appveyor.com/project/AsotikovAnton/ajs-diplom)
 
+https://asotikovanton.github.io/ajs-diplom/
+
 ###### tags: `netology` `advanced js`
 
 ## Предыстория
